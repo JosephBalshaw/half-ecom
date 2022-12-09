@@ -32,5 +32,7 @@ For any further questions that are not addressed in  this README please find my 
 ### email: jbbalshaw@gmail.com
 ### github: 
 
+### Video: https://youtu.be/zCXG98EZtm0
+
 ## ScreenShots
 ![](./assets/images/Screenshot.jpg)
